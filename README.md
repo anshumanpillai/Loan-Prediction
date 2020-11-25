@@ -1,2 +1,2 @@
 # Loan-Prediction Project
-It is python project devloped for predicting people eligible for obtaining loan. firstly,I had performed Exploratory Data Analysis and then tried it with different models to get a more accurate or precise score.The models included Decision Tree, Random Forest ,Logistic Regression and XG Boost. The model with highest accuracy score  uses XG Boost and obtained a score of of 72.22%
+Using machine learning models (Decision Tree, Logistic Regression, XG Boost), predicted the number of people eligible for loan and obtained a final accuracy score of 72.22%
